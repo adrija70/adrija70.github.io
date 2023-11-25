@@ -1,12 +1,4 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 I have always aspired to be a scientist, and that passion has been the guiding light throughout my life's journey. I find immense joy in the pursuit of knowledge and the art of research. It's not merely a profession; it's a calling.
 
