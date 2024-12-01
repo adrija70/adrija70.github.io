@@ -1,9 +1,9 @@
 ---
 title: "L-Asparaginase: Challenges and Development of Next Generation ASNase Therapeutic Molecule."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-01-01-paper-title-number-1
 excerpt: ''
-date: 2020-10-01
+date: 2020-01-01
 venue: 'Emerging Concepts in Chemical
 and Biological Sciences'
 paperurl: 'https://www.lincolnrpl.org/pdf/ECCBS%20-%20WEB.pdf'
