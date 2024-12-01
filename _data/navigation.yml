@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
 
   - title: "Online Coursework"
-    url: /online/
+    url: /online_coursework/
     
   - title: "CV"
     url: /cv/
