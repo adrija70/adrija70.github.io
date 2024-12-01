@@ -14,11 +14,14 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+  - title: "Online"
+    url: /online/
     
   - title: "CV"
     url: /cv/
 
-  # - title: "Online Coursework"
-  #   url: /onlinecoursework/
+  - title: "Online Coursework"
+    url: /onlinecoursework/
   # - title: "Guide"
   #   url: /markdown/
