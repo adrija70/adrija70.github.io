@@ -21,7 +21,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Online Coursework"
-    url: /onlinecoursework/
+  # - title: "Online Coursework"
+  #   url: /onlinecoursework/
   # - title: "Guide"
   #   url: /markdown/
