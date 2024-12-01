@@ -3,11 +3,14 @@ title: "Snail-mediated EMT targeting with chemotherapy as a potential treatment 
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
-date: 2023-12-11
+date: 
 venue: ''
 paperurl: ''
 citation: Bose, A., Zaidi, Z., Teki, N., Katti, D., Combining Snail-mediated EMT targeting with chemotherapy as a potential treatment strategy for cancer.'
 ---
+
+
+This research article is being prepared.
 
 Designed and executed a study targeting epithelial-to-mesenchymal transition (EMT) to combat chemoresistance and metastasis, with a focus on Snail as a key EMT transcription factor. Used fragment-based screening and molecular docking, identifying Remdesivir as a high-affinity Snail inhibitor.
 
