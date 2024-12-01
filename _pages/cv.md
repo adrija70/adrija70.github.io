@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* BTech in Biotechnology from Haldia Institute of Technology
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BTech in Biotechnology from Haldia Institute of Technology
 
 Work experience
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
