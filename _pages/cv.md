@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+
+[CV](https://drive.google.com/file/d/1uVusOrWe5QGaM9e80UkQ_nvPNQGOmCz5/view?usp=drivesdk)
+
+
+
+
+
+
 <!-- Education
 ======
 * BTech in Biotechnology from Haldia Institute of Technology
