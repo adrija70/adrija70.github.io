@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2023-12-11
-venue: 'manuscript under preparation'
+venue: ''
 paperurl: ''
 citation: Bose, A., Zaidi, Z., Teki, N., Katti, D., Combining Snail-mediated EMT targeting with chemotherapy as a potential treatment strategy for cancer.'
 ---
