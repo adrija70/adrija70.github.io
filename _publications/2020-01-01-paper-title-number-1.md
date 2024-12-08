@@ -11,4 +11,3 @@ citation: 'Bose, A., Bhaduri, A., Gupta, S., & Singh, M. (2020). &quot;L-Asparag
 and Biological Sciences</i>. 1(1).'
 ---
 
-Talk about this paper here.
