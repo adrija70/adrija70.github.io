@@ -20,3 +20,7 @@ author_profile: true
 5. “Introduction to the Biology of Cancer” and “Understanding Cancer Metastasis” conducted by Johns Hopkins University, Los Angeles, Coursera.
 6. “Principles of Biochemistry” conducted by Harvard University, HarvardX, EdX.
 7. “Google Data Analytics Professional Certificate” conducted by Google, Coursera.
+
+
+
+Please refer to this [link](https://drive.google.com/file/d/1GIjveJphHRalaxSnCyutZEnsIr15B_2t/view?usp=sharing) for certificates.
