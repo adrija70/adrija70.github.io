@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
+<br>
 
 Education
 ======
