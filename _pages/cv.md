@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-
+Education
 ======
 * M.Tech in Biological Sciences and Bioengineering (BSBE), IIT Kanpur, India. (2022-2024)
 * B.Tech in Biotechnology, Haldia Institute of Technology. (2017-2021)
