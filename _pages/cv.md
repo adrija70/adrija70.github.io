@@ -14,6 +14,7 @@ Research Experience
 ======
 * Graduate Student Researcher, Department of BSBE, IIT Kanpur. (2023- ongoing)
 * Research Assistant, IIT Kanpur, Department of BSBE, IIT Kanpur. (2022)
+* Research Assistant, HIT, India. (2019)
 
 Internships
 ======
