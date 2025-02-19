@@ -4,10 +4,9 @@ collection: teaching
 type: "Dept. of Biosciences and Bioengineering"
 permalink: /research-project/2015-spring-teaching-1
 venue: "IIT Kanpur, India"
-# date: 2024-10-01
+date: 2024-10-01
 location: "Kanpur, India"
 ---
-
 
 ### Goal
 To develop a drug delivery-assisted combination therapy targeting both cancer-associated fibroblasts (CAFs) and cancer cells.
