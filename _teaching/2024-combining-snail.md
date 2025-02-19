@@ -5,7 +5,7 @@ type: "Dept. of Biosciences and Bioengineering"
 permalink: /research-project/2024-combining-snail
 venue: "IIT Kanpur"
 date: 2024-05-01
-location: "Kanpur, India"
+location: "India"
 ---
 
 
