@@ -14,8 +14,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Extracurricular"
-  #   url: /extracurricular/
+  - title: "Extracurricular"
+    url: /extracurricular/
         
   - title: "Online Coursework"
     url: /online-coursework/
