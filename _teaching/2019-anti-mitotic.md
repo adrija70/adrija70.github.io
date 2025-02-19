@@ -5,7 +5,7 @@ type: "Dept. of Biophysics, MolecularBiology and Bioinformatics"
 permalink: /research-project/2019-anti-mitotic
 venue: "University of Calcutta and Haldia Institute of Technology"
 date: 2019-01-01
-location: "Kolkata, India"
+location: "India"
 ---
 
 ### Goal
